@@ -1,6 +1,6 @@
 
 
-# Microsoft Loop Clone
+# Real-time Collaborative Workspace
 
 A collaborative workspace app inspired by **Microsoft Loop**, built with **Next.js**, **Clerk**, **Liveblocks**, **Editor.js**, **ShadCN UI**, and **TailwindCSS**. This project allows users to create, edit, and collaborate on documents in real time with authentication, modern UI, and a block-based editor experience.
 
